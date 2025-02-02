@@ -19,3 +19,10 @@ Bachelor’s in Computer Science – FAST National University of Computer and Em
 
 Coursework: Software Design & Analysis, Programming Fundamentals, Networking, Machine Learning (Exploring)
 Active in technical and leadership roles, bridging technology with social impact
+
+Projects:
+Technical Projects
+Online Booking Management System – Designed and implemented a system with multiple features, including service booking, payment processing, targeted offers, and analytics.
+Multinational Company Network (Cisco Packet Tracer) – Built a company-wide network with VLANs, RIP routing, NAT for internet access, DHCP for dynamic IP assignment, and redundancy mechanisms.
+Software Design & Analysis (Visio Diagrams) – Created system models and architectural diagrams for various projects.
+Job Description Reverse Engineering – Analyzed and deconstructed job descriptions to align skills with employer expectations.
