@@ -1,1 +1,16 @@
-Hi My Name is Rbdur Raheem
+About ME :
+Abdur Raheem is a computer science student with a strong interest in software design, machine learning, and artificial intelligence. Passionate about civic leadership, he aims to use technology for social impact, focusing on education access, youth empowerment, and social inclusion. He has experience in networking, online booking systems, and leadership roles in university societies. He is also preparing for the AIPS Civic Leadership for Social Change Workshop and actively seeks to bridge the gap between technology and societal needs. 
+
+Experience :
+Technical Experience
+Online Booking Management System – Developed a system with multiple use cases, including booking services, payments, customer support, and analytics.
+Multinational Company Network (Cisco Packet Tracer) – Designed a network with VLANs, DHCP, RIP routing, NAT for internet access, and redundancy for global connectivity.
+Software Design & Analysis – Worked on system modeling and Visio diagrams under Sir Shehryar Rashid.
+Programming & Development – Experience in coding, problem-solving, and reverse-engineering job descriptions for career advancement.
+Machine Learning & AI (Learning Phase) – Exploring applications of ML/AI for innovative tech solutions.
+Leadership & Civic Engagement
+Procurement Vice Head – Community Service Society (FAST) – Managed procurement operations for social initiatives.
+Head – FAST Debating Society – Led debating activities, fostering critical thinking and public speaking.
+Member – FAST Computing Society – Engaged in technical and networking-related activities.
+AIPS Civic Leadership for Social Change (2025 Workshop) – Selected for a prestigious leadership program in the USA, aiming to drive social impact through technology.
+
